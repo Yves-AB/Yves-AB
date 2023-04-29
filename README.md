@@ -1,6 +1,6 @@
 Hey there, i'm a junior software developer with a passion for learning and a love for all tech related things. I'm currently in the early stages of my coding journey but im excited to take in as much knowledge as possible and work on exciting projects.
 
-My main areas of interest are unclear at the moment however i'm currently focusing on Python, Java, JS, GO and Unity.  I'm also exploring other languages and frameworks, and I'm always looking for new challenges to help me grow as a developer.
+My main areas of interest are unclear at the moment however i'm currently focusing on Python, Java, GO and Unity.  I'm also exploring other languages and frameworks, and I'm always looking for new challenges to help me grow as a developer.
 
 I'm a big believer in the power of collaboration, and I love to connect with other developers and share ideas. Whether you're a  pro or a fellow newbie, I'm always up for a chat and a chance to learn something new.
 
